@@ -1,3 +1,11 @@
+<img src="./public/img/mobile.png" alt="GitHUB" align="center" >
+<img src="./public/img/onePost.png" alt="GitHUB" align="center" >
+<img src="./public/img/fullPost.png" alt="GitHUB" align="center" >
+<img src="./public/img/postWithImg.png" alt="GitHUB" align="center" >
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
